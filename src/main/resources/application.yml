@@ -1,0 +1,11 @@
+server:
+  error:
+    include-message: always
+
+
+spring:
+  elasticsearch:
+    rest:
+      host: "localhost"
+      username: "elastic"
+      password: "AX3NJw2VjbD5gDZH*iaY"
